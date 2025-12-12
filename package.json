@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ffmpeg-static": "^5.2.0",
-    "next": "^15.3.6"
+    "next": "15.3.8"
   },
   "devDependencies": {
     "@types/node": "^20",
